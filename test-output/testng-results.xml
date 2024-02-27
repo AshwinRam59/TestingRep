@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T14:11:27 IST" name="Default suite" finished-at="2024-02-27T14:11:32 IST" duration-ms="5938">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T14:11:27 IST" name="Default test" finished-at="2024-02-27T14:11:32 IST" duration-ms="5938">
+      <class name="Testdata.DataDriven.ReadExcel">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testdata.DataDriven.ReadExcel@4c1909a3]" started-at="2024-02-27T14:11:27 IST" name="setup" finished-at="2024-02-27T14:11:32 IST" duration-ms="5914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- Testdata.DataDriven.ReadExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+
+git config --global user.name "Ashwin Ramteke“
+git config --global user.email ashwinba294@gmail.com
+ 
+
+
+
+
+echo "# TestingRep" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AshwinRam59/TestingRep.git
+git push -u origin main
